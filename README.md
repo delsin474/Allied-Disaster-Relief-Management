@@ -1,4 +1,7 @@
-# Allied-Disaster-Relief-Management
+# Allied Disaster Relief Management
+
+
+## System consists following modules :
 
 ## 1.Information Alerts
 *	Alerts to Police Station/Healthcare Center/Relief Centre including information such as hotspots where immediate help is required.
